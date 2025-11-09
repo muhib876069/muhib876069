@@ -24,8 +24,7 @@
 
 ### 📚 Currently Learning
 - 🤖 Machine Learning (Supervised & Unsupervised Models)  
-- 🧠 Neural Networks & AI Algorithms  
-- 🐍 Python for Data Science  
+- 🧠 Neural Networks & AI Algorithms    
 
 ---
 
