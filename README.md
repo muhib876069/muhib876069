@@ -2,7 +2,7 @@
 <h3 align="center">🧠 AI Learner | 🎨 Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23B366FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+smart+and+interactive+projects.;Exploring+Machine+Learning+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23B366FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+smart+interactive+projects.;Currently+exploring+Machine+Learning.;CHEERS+🍻%F0%9F%A4%96" />
 </p>
 
 ---
