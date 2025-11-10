@@ -1,0 +1,35 @@
+name: Generate Futuristic Snake 🐍
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ allows pushing SVGs to your repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: muhib876069
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#bb00ff"         # 🔮 Neon Purple snake
+          color_dots: "#00ff88,#00cc66,#00aa44,#008833,#005522"  # 🟢 Gradient green grid
+          color_background: "#000000"   # ⚫ Deep black background
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
