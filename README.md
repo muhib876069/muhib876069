@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Farhan Muhib Monim</h1>
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="35px"> 
+  Hey there, I'm <span style="color:#00FFFF;">Farhan Muhib Monim</span>
+</h1>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,github,git,vscode,linux" />
 </p>
