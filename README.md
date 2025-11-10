@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-(https://github.com/muhib876069/muhib876069/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
