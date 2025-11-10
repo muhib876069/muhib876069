@@ -2,16 +2,16 @@ name: Generate Futuristic Snake 🐍
 
 on:
   schedule:
-    # Runs every day at midnight UTC
+   
     - cron: "0 0 * * *"
-  workflow_dispatch:  # Allows manual run
+  workflow_dispatch:  
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # ✅ allows pushing SVGs to your repo
+      contents: write  
 
     steps:
       - name: Checkout repository
@@ -22,9 +22,9 @@ jobs:
         with:
           github_user_name: muhib876069
           outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#bb00ff"         # 🔮 Neon Purple snake
-          color_dots: "#00ff88,#00cc66,#00aa44,#008833,#005522"  # 🟢 Gradient green grid
-          color_background: "#000000"   # ⚫ Deep black background
+          color_snake: "#bb00ff"         
+          color_dots: "#00ff88,#00cc66,#00aa44,#008833,#005522"  
+          color_background: "#000000"  
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
