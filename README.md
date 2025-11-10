@@ -39,9 +39,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-<img src = "https://github.com/muhib876069/muhib876069/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/muhib876069/muhib876069/output/github-contribution-grid-snake.svg)
+
 
 
 ---
