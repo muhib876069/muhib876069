@@ -42,7 +42,7 @@ Currently Learning:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan&show_icons=true&theme=radical" alt="Farhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
