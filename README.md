@@ -15,7 +15,7 @@
 CLass Farhan:
   def __init__(self, me, projects, learning):
 
-    Self.me =
+    Self.me:
         "💡 I'm a very passionate self-learned developer who loves turning ideas into working technology." 
         f"💻 I’ve been tryng to built projects that combine creativity and intelligence —
           from {voice recognition} to {AI-powered chatbots}."
