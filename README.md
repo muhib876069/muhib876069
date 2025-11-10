@@ -9,36 +9,34 @@
 </p>
 
 ---
-```yaml
+```python
 
 
-CLass Farhan:
-  def __init__(self, me, projects, learning):
+class Farhan:
+  def __init__(Self, me, projects, learning):
 
-    Self.me:
+    Self.me =
+
         "💡 I'm a very passionate self-learned developer who loves turning ideas into working technology." 
-        f"💻 I’ve been tryng to built projects that combine creativity and intelligence —
-          from {voice recognition} to {AI-powered chatbots}."
-        f"🧩 Currently I am very much into {Machine Learning} to make technology more human-friendly."
+        "💻 I ve been tryng to built projects that combine creativity and intelligence from
+            {Voice Recognition} to {AIpowered Chatbots}."
+        "🧩 Currently I am very much into {Machine Learning} to make technology more human-friendly."
       
 
 
-    Self.Projects:
+    Self.projects =
 
-       f"🖼️ {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
-       f"🎙️ {Voice Recognition System} – Built a program that listens, understands, and reacts
+       "🖼️ {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
+       "🎙️ {Voice Recognition System} – Built a program that listens, understands, and reacts
             to voice commands."  
-       f"💬 {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
-       f"✍️ {Spell Corrector} – Implemented a text correction tool that detects and
+       "💬 {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
+       "✍️ {Spell Corrector} – Implemented a text correction tool that detects and
             fixes spelling mistakes automatically."
     
+    Self.learning =
 
-
-
-    Self.Learning:
-
-       f"🤖 Machine Learning {Supervised & Unsupervised Models}"  
-       f"🧠 Neural Networks & AI Algorithms"
+       "🤖 Machine Learning {Supervised & Unsupervised Models}"  
+       "🧠 Neural Networks & AI Algorithms"
   
 ```
 
