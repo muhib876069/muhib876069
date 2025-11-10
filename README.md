@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Farhan Muhib Monim</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,github,git,vscode,linux" />
+</p>
 <h3 align="center">🧠 AI Learner | 🎨 Creative Technologist</h3>
 
 <p align="center">
@@ -28,13 +31,6 @@
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,github,git,vscode,linux" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhankhan&show_icons=true&theme=radical" alt="Farhan's GitHub Stats" />
@@ -43,6 +39,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+(https://github.com/muhib876069/muhib876069/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
