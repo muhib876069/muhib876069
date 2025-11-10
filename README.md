@@ -51,7 +51,7 @@
   <a href="https://www.facebook.com/Farhaaan007" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Farhan%20Khan-blue?style=flat-square&logo=Facebook" />
   </a>
-  <a href="mailto:farhankhan@example.com">
+  <a href="mailto:fk876069@gmail.com">
     <img src="https://img.shields.io/badge/Email-fk876069@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
