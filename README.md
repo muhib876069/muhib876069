@@ -13,23 +13,23 @@
 
 
 About me:
-  [
+[
     "💡 I'm a very passionate self-learned developer who loves turning ideas into working technology." 
     f"💻 I’ve been tryng to built projects that combine creativity and intelligence —
       from {voice recognition} to {AI-powered chatbots}."
     f"🧩 Currently I am very much into {Machine Learning} to make technology more human-friendly."
-  ]  
-
----
-My Projects:
-]
-- f"🖼️ {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
-- f"🎙️ {Voice Recognition System} – Built a program that listens, understands, and reacts to voice commands."  
-- f"💬 {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
-- f"✍️ {Spell Corrector} – Implemented a text correction tool that detects and fixes spelling mistakes automatically."
 ]  
 
----
+
+My Projects:
+[
+ f"🖼️ {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
+ f"🎙️ {Voice Recognition System} – Built a program that listens, understands, and reacts to voice commands."  
+ f"💬 {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
+ f"✍️ {Spell Corrector} – Implemented a text correction tool that detects and fixes spelling mistakes automatically."
+]  
+
+
 
 Currently Learning:
 [
