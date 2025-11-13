@@ -48,11 +48,11 @@ class Farhan:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhib876069&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib876069&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/muhib876069/muhib876069/output/github-contribution-grid-snake.svg)
