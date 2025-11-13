@@ -22,7 +22,7 @@ class Farhan:
     Self.me =
 
         "💡 I'm a very passionate self-learned developer who loves turning ideas into working technology." 
-        "💻 I ve been tryng to built projects that combine creativity and intelligence from
+        "💻 I've been tryng to built projects that combine creativity and intelligence from
             {Voice Recognition} to {AIpowered Chatbots}."
         "🧩 Currently I am very much into {Machine Learning} to make technology more human-friendly."
       
@@ -30,17 +30,18 @@ class Farhan:
 
     Self.projects =
 
-       "🖼️ {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
-       "🎙️ {Voice Recognition System} – Built a program that listens, understands, and reacts
+       "🖼️" {Wallpaper App} – Designed and developed a custom wallpaper system with smooth UI/UX."  
+       "🎙️" {Voice Recognition System} – Built a program that listens, understands, and reacts
             to voice commands."  
-       "💬 {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
-       "✍️ {Spell Corrector} – Implemented a text correction tool that detects and
+       "💬" {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
+       "✍️" {Spell Corrector} – Implemented a text correction tool that detects and
             fixes spelling mistakes automatically."
+       "💸" {Converter Pro} - An app which converts currency with live rates and also converts trmperature."
     
     Self.learning =
 
-       "🤖 Machine Learning {Supervised & Unsupervised Models}"  
-       "🧠 Neural Networks & AI Algorithms"
+       "🤖" Machine Learning {Supervised & Unsupervised Models}"  
+       "🧠" Neural Networks & AI Algorithms"
   
 ```
 
