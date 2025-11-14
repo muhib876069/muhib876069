@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,8 +15,8 @@ jobs:
           github_user_name: muhib876069
           outputs: |
             dist/snake-dark.svg
-            dist/snake-neon.svg
-            dist/snake-rainbow.svg
+          
+          palette: "213,58,142:144,0,255:0,0,0:80,10,120:255,255,255"
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
