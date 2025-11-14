@@ -56,7 +56,8 @@ class Farhan:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib876069&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/muhib876069/muhib876069/output/snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/muhib876069/muhib876069/output/snake-rainbow.svg?v=2)
+
 
 
 
