@@ -4,15 +4,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,github,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <br><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 </p>
+
 <h3 align="center">🧠 AI Learner | 🎨 Creative Technologist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23B366FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+smart+interactive+projects.;Currently+exploring+Machine+Learning.;CHEERS+🍻%F0%9F%A4%96" />
 </p>
 
----
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 ```python
 
 
@@ -47,7 +52,7 @@ class Farhan:
 
 ---
 
-### 📈 GitHub Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhib876069&theme=radical" />
 </p>
@@ -76,7 +81,7 @@ class Farhan:
 
 ---
 
-### 💬 Let's Connect!
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
   <a href="https://www.facebook.com/Farhaaan007" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Farhan%20Khan-blue?style=flat-square&logo=Facebook" />
