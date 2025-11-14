@@ -1,33 +1,25 @@
-name: Generate Futuristic Snake 🐍
+name: Generate Snake Animation
 
 on:
   schedule:
-   
-    - cron: "0 0 * * *"
-  workflow_dispatch:  
+    - cron: "0 */24 * * *"   # every 24 hours
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write  
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: muhib876069
-          outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#bb00ff"         
-          color_dots: "#00ff88,#00cc66,#00aa44,#008833,#005522"  
-          color_background: "#000000"  
+          outputs: |
+            dist/snake-dark.svg
+            dist/snake-neon.svg
+            dist/snake-rainbow.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
