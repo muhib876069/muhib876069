@@ -41,7 +41,8 @@ class Farhan:
        "💬" {Chatbot} – Created an interactive chatbot capable of answering queries intelligently."  
        "✍️" {Spell Corrector} – Implemented a text correction tool that detects and
             fixes spelling mistakes automatically."
-       "💸" {Converter Pro} - An app which converts currency with live rates and also converts trmperature."
+       "💸" {Converter Pro} - An app which converts currency with live rates and also converts
+            trmperature."
     
     Self.learning =
 
